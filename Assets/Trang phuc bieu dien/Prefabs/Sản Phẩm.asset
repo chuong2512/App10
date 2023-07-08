@@ -12,41 +12,92 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1de118c01cd375348bc5b06db5d3937a, type: 3}
   m_Name: "S\u1EA3n Ph\u1EA9m"
   m_EditorClassIdentifier: 
+  name: 
+  infor: 
+  folderPath: Assets/App10
   SanPham:
-  - thongTin: 
+  - ID: 0
+    anh: {fileID: 21300000, guid: 64693b52c4e0b7b46b6d5a7d3364fa09, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
     gia: "500.000 \u0111"
     name: "D\u1EE5ng c\u1EE5 th\xE1i h\xE0nh, t\u1ECFi ti\u1EC7n l\u1EE3i d\u1EC5
       s\u1EED d\u1EE5ng"
-    ID: 0
-    anh: {fileID: 21300000, guid: 64693b52c4e0b7b46b6d5a7d3364fa09, type: 3}
-    anhHai: {fileID: 0}
-  - thongTin: 
-    gia: "500.000 \u0111"
-    name: "D\u1EE5ng c\u1EE5 xi\xEAn th\u1ECBt n\u01B0\u1EDBng ti\u1EC7n d\u1EE5ng"
-    ID: 1
+  - ID: 1
     anh: {fileID: 21300000, guid: 9400ed84f300b794bb266240b63c1657, type: 3}
     anhHai: {fileID: 0}
-  - thongTin: 
-    gia: "2.000.000 \u0111"
-    name: "N\u1ED3i \u0111i\u1EC7n chi\xEAn kh\xF4ng d\u1EA7u d\u1EC5 s\u1EED d\u1EE5ng"
-    ID: 2
+    thongTin: 
+    gia: "500.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 xi\xEAn th\u1ECBt n\u01B0\u1EDBng ti\u1EC7n d\u1EE5ng"
+  - ID: 2
     anh: {fileID: 21300000, guid: 3d2d09cd3cc6a414aafe7d8dbbe6896d, type: 3}
     anhHai: {fileID: 0}
-  - thongTin: 
+    thongTin: 
     gia: "2.000.000 \u0111"
-    name: "V\u1EE3t chi\xEAn v\u1EDBt r\xE1o d\u1EA7u 16cm"
-    ID: 3
+    name: "N\u1ED3i \u0111i\u1EC7n chi\xEAn kh\xF4ng d\u1EA7u d\u1EC5 s\u1EED d\u1EE5ng"
+  - ID: 3
     anh: {fileID: 21300000, guid: 84cda48ee675d2e4db10a6bb63244446, type: 3}
     anhHai: {fileID: 0}
-  - thongTin: 
-    gia: "500.000 \u0111"
-    name: "T\u1EA1p d\u1EC1 n\u1EA5u \u0103n chuy\xEAn d\xF9ng"
-    ID: 4
+    thongTin: 
+    gia: "2.000.000 \u0111"
+    name: "V\u1EE3t chi\xEAn v\u1EDBt r\xE1o d\u1EA7u 16cm"
+  - ID: 4
     anh: {fileID: 21300000, guid: 9756d2920bcb3324784f78741ab8c12e, type: 3}
     anhHai: {fileID: 0}
-  - thongTin: 
-    gia: "200.000 \u0111"
-    name: "D\u1EE5ng c\u1EE5 xi\xEAn th\u1ECBt n\u01B0\u1EDBng ti\u1EC7n d\u1EE5ng"
-    ID: 5
+    thongTin: 
+    gia: "500.000 \u0111"
+    name: "T\u1EA1p d\u1EC1 n\u1EA5u \u0103n chuy\xEAn d\xF9ng"
+  - ID: 5
     anh: {fileID: 21300000, guid: 8c5aa746fc8ea954a8cb343551472668, type: 3}
     anhHai: {fileID: 0}
+    thongTin: 
+    gia: "200.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 xi\xEAn th\u1ECBt n\u01B0\u1EDBng ti\u1EC7n d\u1EE5ng"
+  - ID: 6
+    anh: {fileID: 21300000, guid: 86e1d30ec1127ba49a968d9f03983834, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "750.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 xi\xEAn th\u1ECBt n\u01B0\u1EDBng ti\u1EC7n d\u1EE5ng"
+  - ID: 7
+    anh: {fileID: 21300000, guid: 772f7c78a625fcc409284981ef3d8296, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "10.000.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 xi\xEAn th\u1ECBt n\u01B0\u1EDBng ti\u1EC7n d\u1EE5ng"
+  - ID: 8
+    anh: {fileID: 21300000, guid: 5897e65337b1212418141d6bf25fc0c1, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "10.000.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 xi\xEAn th\u1ECBt n\u01B0\u1EDBng ti\u1EC7n d\u1EE5ng"
+  - ID: 9
+    anh: {fileID: 21300000, guid: 75a14564ef24a4943b6a1d83ed4aeb3c, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "6.000.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 xi\xEAn th\u1ECBt n\u01B0\u1EDBng ti\u1EC7n d\u1EE5ng"
+  - ID: 10
+    anh: {fileID: 21300000, guid: 6df1b6d33ebae414d81638bd850ebe4e, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "5.000.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 xi\xEAn th\u1ECBt n\u01B0\u1EDBng ti\u1EC7n d\u1EE5ng"
+  - ID: 11
+    anh: {fileID: 21300000, guid: f1d2a398cf01d204f8c74194d832812b, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "270.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 xi\xEAn th\u1ECBt n\u01B0\u1EDBng ti\u1EC7n d\u1EE5ng"
+  - ID: 12
+    anh: {fileID: 21300000, guid: 2822b58ae16536a468a03b81fa1c3ebe, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "470.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 xi\xEAn th\u1ECBt n\u01B0\u1EDBng ti\u1EC7n d\u1EE5ng"
+  - ID: 13
+    anh: {fileID: 21300000, guid: 3be92332ecf158245b25ff73c77351d0, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "4.000.000 \u0111"
+    name: "D\u1EE5ng c\u1EE5 xi\xEAn th\u1ECBt n\u01B0\u1EDBng ti\u1EC7n d\u1EE5ng"
